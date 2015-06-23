@@ -13,7 +13,7 @@ $this->widget(
             'class' => 'top-menu justify'
         ],
         'submenuHtmlOptions' => [
-            'class' => 'top-menu__submenu',
+             class' => 'top-menu__submenu',
         ],
     ]
 );
