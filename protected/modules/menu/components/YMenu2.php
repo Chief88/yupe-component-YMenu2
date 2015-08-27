@@ -1,7 +1,7 @@
 <?php
-Yii::import('zii.widgets.CMenu');
+Yii::import('booster.widgets.TbMenu');
 
-class YMenu2 extends CMenu
+class YMenu2 extends TbMenu
 {
     public function isItemActive($item, $route){
 
